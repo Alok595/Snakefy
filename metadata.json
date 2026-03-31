@@ -1,0 +1,8 @@
+{
+  "name": "Snakefy - Snake Detector & Safety",
+  "description": "A professional-grade snake identification tool with venomous status detection, first-aid guidance, and emergency hospital locator.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
